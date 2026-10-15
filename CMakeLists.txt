@@ -7,4 +7,5 @@ add_executable(linkedlists main.cpp
         singlelinkedlist.cpp
         hash_table.cpp
         hash_table.cpp
-        bstree.cpp)
+        bstree.cpp
+        n-queens.cpp)
